@@ -1,0 +1,228 @@
+Dependencies for Project 'tinyOS', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Source\app.c)(0x5C62EB99)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103RB-I.\RTE\_Target_1-Id:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include-Id:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F10X_MD-o .\objects\app.o --omf_browse .\objects\app.crf --depend .\objects\app.d)
+I (Source\tinyOS.h)(0x5C62E6D5)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F218E)
+I (Source\tLib.h)(0x5C4F7084)
+I (Source\tConfig.h)(0x5C62E6D4)
+I (Source\tEvent.h)(0x5C61B604)
+I (Source\tTask.h)(0x5C62ACE0)
+I (Source\tSem.h)(0x5C5EAE50)
+I (Source\tMbox.h)(0x5C5F08F2)
+I (Source\tMemBlock.h)(0x5C6003D9)
+I (Source\tFlagGroup.h)(0x5C604AF5)
+I (Source\tMutex.h)(0x5C61C24E)
+I (Source\tTimer.h)(0x5C62C44D)
+I (Source\tHooks.h)(0x5C62E6F4)
+F (.\Source\main.c)(0x5C62EACD)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103RB-I.\RTE\_Target_1-Id:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include-Id:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F10X_MD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (Source\tinyOS.h)(0x5C62E6D5)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F218E)
+I (Source\tLib.h)(0x5C4F7084)
+I (Source\tConfig.h)(0x5C62E6D4)
+I (Source\tEvent.h)(0x5C61B604)
+I (Source\tTask.h)(0x5C62ACE0)
+I (Source\tSem.h)(0x5C5EAE50)
+I (Source\tMbox.h)(0x5C5F08F2)
+I (Source\tMemBlock.h)(0x5C6003D9)
+I (Source\tFlagGroup.h)(0x5C604AF5)
+I (Source\tMutex.h)(0x5C61C24E)
+I (Source\tTimer.h)(0x5C62C44D)
+I (Source\tHooks.h)(0x5C62E6F4)
+F (.\Source\switch.c)(0x5C62EABE)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103RB-I.\RTE\_Target_1-Id:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include-Id:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F10X_MD-o .\objects\switch.o --omf_browse .\objects\switch.crf --depend .\objects\switch.d)
+I (Source\tinyOS.h)(0x5C62E6D5)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F218E)
+I (Source\tLib.h)(0x5C4F7084)
+I (Source\tConfig.h)(0x5C62E6D4)
+I (Source\tEvent.h)(0x5C61B604)
+I (Source\tTask.h)(0x5C62ACE0)
+I (Source\tSem.h)(0x5C5EAE50)
+I (Source\tMbox.h)(0x5C5F08F2)
+I (Source\tMemBlock.h)(0x5C6003D9)
+I (Source\tFlagGroup.h)(0x5C604AF5)
+I (Source\tMutex.h)(0x5C61C24E)
+I (Source\tTimer.h)(0x5C62C44D)
+I (Source\tHooks.h)(0x5C62E6F4)
+I (d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x58259ADC)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5C62EA41)
+I (d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\core_cm3.h)(0x5A8E7442)
+I (d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_version.h)(0x5A55EA42)
+I (d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_compiler.h)(0x5A8E7442)
+I (d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_armcc.h)(0x5A8E7442)
+I (d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x58259ADC)
+F (.\Source\tBitmap.c)(0x5C4D65FD)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103RB-I.\RTE\_Target_1-Id:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include-Id:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F10X_MD-o .\objects\tbitmap.o --omf_browse .\objects\tbitmap.crf --depend .\objects\tbitmap.d)
+I (Source\tLib.h)(0x5C4F7084)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F218E)
+F (.\Source\tCpu.c)(0x5C62EABD)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103RB-I.\RTE\_Target_1-Id:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include-Id:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F10X_MD-o .\objects\tcpu.o --omf_browse .\objects\tcpu.crf --depend .\objects\tcpu.d)
+I (Source\tinyOS.h)(0x5C62E6D5)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F218E)
+I (Source\tLib.h)(0x5C4F7084)
+I (Source\tConfig.h)(0x5C62E6D4)
+I (Source\tEvent.h)(0x5C61B604)
+I (Source\tTask.h)(0x5C62ACE0)
+I (Source\tSem.h)(0x5C5EAE50)
+I (Source\tMbox.h)(0x5C5F08F2)
+I (Source\tMemBlock.h)(0x5C6003D9)
+I (Source\tFlagGroup.h)(0x5C604AF5)
+I (Source\tMutex.h)(0x5C61C24E)
+I (Source\tTimer.h)(0x5C62C44D)
+I (Source\tHooks.h)(0x5C62E6F4)
+I (d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x58259ADC)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5C62EA41)
+I (d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\core_cm3.h)(0x5A8E7442)
+I (d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_version.h)(0x5A55EA42)
+I (d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_compiler.h)(0x5A8E7442)
+I (d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_armcc.h)(0x5A8E7442)
+I (d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x58259ADC)
+F (.\Source\tEvent.c)(0x5C61B603)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103RB-I.\RTE\_Target_1-Id:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include-Id:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F10X_MD-o .\objects\tevent.o --omf_browse .\objects\tevent.crf --depend .\objects\tevent.d)
+I (Source\tinyOS.h)(0x5C62E6D5)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F218E)
+I (Source\tLib.h)(0x5C4F7084)
+I (Source\tConfig.h)(0x5C62E6D4)
+I (Source\tEvent.h)(0x5C61B604)
+I (Source\tTask.h)(0x5C62ACE0)
+I (Source\tSem.h)(0x5C5EAE50)
+I (Source\tMbox.h)(0x5C5F08F2)
+I (Source\tMemBlock.h)(0x5C6003D9)
+I (Source\tFlagGroup.h)(0x5C604AF5)
+I (Source\tMutex.h)(0x5C61C24E)
+I (Source\tTimer.h)(0x5C62C44D)
+I (Source\tHooks.h)(0x5C62E6F4)
+F (.\Source\tFlagGroup.c)(0x5C62DD97)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103RB-I.\RTE\_Target_1-Id:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include-Id:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F10X_MD-o .\objects\tflaggroup.o --omf_browse .\objects\tflaggroup.crf --depend .\objects\tflaggroup.d)
+I (Source\tinyOS.h)(0x5C62E6D5)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F218E)
+I (Source\tLib.h)(0x5C4F7084)
+I (Source\tConfig.h)(0x5C62E6D4)
+I (Source\tEvent.h)(0x5C61B604)
+I (Source\tTask.h)(0x5C62ACE0)
+I (Source\tSem.h)(0x5C5EAE50)
+I (Source\tMbox.h)(0x5C5F08F2)
+I (Source\tMemBlock.h)(0x5C6003D9)
+I (Source\tFlagGroup.h)(0x5C604AF5)
+I (Source\tMutex.h)(0x5C61C24E)
+I (Source\tTimer.h)(0x5C62C44D)
+I (Source\tHooks.h)(0x5C62E6F4)
+F (.\Source\tHooks.c)(0x5C62E6F4)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103RB-I.\RTE\_Target_1-Id:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include-Id:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F10X_MD-o .\objects\thooks.o --omf_browse .\objects\thooks.crf --depend .\objects\thooks.d)
+I (Source\tinyOS.h)(0x5C62E6D5)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F218E)
+I (Source\tLib.h)(0x5C4F7084)
+I (Source\tConfig.h)(0x5C62E6D4)
+I (Source\tEvent.h)(0x5C61B604)
+I (Source\tTask.h)(0x5C62ACE0)
+I (Source\tSem.h)(0x5C5EAE50)
+I (Source\tMbox.h)(0x5C5F08F2)
+I (Source\tMemBlock.h)(0x5C6003D9)
+I (Source\tFlagGroup.h)(0x5C604AF5)
+I (Source\tMutex.h)(0x5C61C24E)
+I (Source\tTimer.h)(0x5C62C44D)
+I (Source\tHooks.h)(0x5C62E6F4)
+F (.\Source\tList.c)(0x5C4D9BE3)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103RB-I.\RTE\_Target_1-Id:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include-Id:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F10X_MD-o .\objects\tlist.o --omf_browse .\objects\tlist.crf --depend .\objects\tlist.d)
+I (Source\tLib.h)(0x5C4F7084)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F218E)
+F (.\Source\tMbox.c)(0x5C62DD98)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103RB-I.\RTE\_Target_1-Id:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include-Id:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F10X_MD-o .\objects\tmbox.o --omf_browse .\objects\tmbox.crf --depend .\objects\tmbox.d)
+I (Source\tinyOS.h)(0x5C62E6D5)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F218E)
+I (Source\tLib.h)(0x5C4F7084)
+I (Source\tConfig.h)(0x5C62E6D4)
+I (Source\tEvent.h)(0x5C61B604)
+I (Source\tTask.h)(0x5C62ACE0)
+I (Source\tSem.h)(0x5C5EAE50)
+I (Source\tMbox.h)(0x5C5F08F2)
+I (Source\tMemBlock.h)(0x5C6003D9)
+I (Source\tFlagGroup.h)(0x5C604AF5)
+I (Source\tMutex.h)(0x5C61C24E)
+I (Source\tTimer.h)(0x5C62C44D)
+I (Source\tHooks.h)(0x5C62E6F4)
+F (.\Source\tMeBlock.c)(0x5C62DD98)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103RB-I.\RTE\_Target_1-Id:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include-Id:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F10X_MD-o .\objects\tmeblock.o --omf_browse .\objects\tmeblock.crf --depend .\objects\tmeblock.d)
+I (Source\tinyOS.h)(0x5C62E6D5)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F218E)
+I (Source\tLib.h)(0x5C4F7084)
+I (Source\tConfig.h)(0x5C62E6D4)
+I (Source\tEvent.h)(0x5C61B604)
+I (Source\tTask.h)(0x5C62ACE0)
+I (Source\tSem.h)(0x5C5EAE50)
+I (Source\tMbox.h)(0x5C5F08F2)
+I (Source\tMemBlock.h)(0x5C6003D9)
+I (Source\tFlagGroup.h)(0x5C604AF5)
+I (Source\tMutex.h)(0x5C61C24E)
+I (Source\tTimer.h)(0x5C62C44D)
+I (Source\tHooks.h)(0x5C62E6F4)
+F (.\Source\tMutex.c)(0x5C62DD97)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103RB-I.\RTE\_Target_1-Id:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include-Id:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F10X_MD-o .\objects\tmutex.o --omf_browse .\objects\tmutex.crf --depend .\objects\tmutex.d)
+I (Source\tinyOS.h)(0x5C62E6D5)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F218E)
+I (Source\tLib.h)(0x5C4F7084)
+I (Source\tConfig.h)(0x5C62E6D4)
+I (Source\tEvent.h)(0x5C61B604)
+I (Source\tTask.h)(0x5C62ACE0)
+I (Source\tSem.h)(0x5C5EAE50)
+I (Source\tMbox.h)(0x5C5F08F2)
+I (Source\tMemBlock.h)(0x5C6003D9)
+I (Source\tFlagGroup.h)(0x5C604AF5)
+I (Source\tMutex.h)(0x5C61C24E)
+I (Source\tTimer.h)(0x5C62C44D)
+I (Source\tHooks.h)(0x5C62E6F4)
+F (.\Source\tSem.c)(0x5C62DD96)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103RB-I.\RTE\_Target_1-Id:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include-Id:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F10X_MD-o .\objects\tsem.o --omf_browse .\objects\tsem.crf --depend .\objects\tsem.d)
+I (Source\tSem.h)(0x5C5EAE50)
+I (Source\tEvent.h)(0x5C61B604)
+I (Source\tConfig.h)(0x5C62E6D4)
+I (Source\tLib.h)(0x5C4F7084)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F218E)
+I (Source\tTask.h)(0x5C62ACE0)
+I (Source\tinyOS.h)(0x5C62E6D5)
+I (Source\tMbox.h)(0x5C5F08F2)
+I (Source\tMemBlock.h)(0x5C6003D9)
+I (Source\tFlagGroup.h)(0x5C604AF5)
+I (Source\tMutex.h)(0x5C61C24E)
+I (Source\tTimer.h)(0x5C62C44D)
+I (Source\tHooks.h)(0x5C62E6F4)
+F (.\Source\tTask.c)(0x5C62E6D4)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103RB-I.\RTE\_Target_1-Id:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include-Id:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F10X_MD-o .\objects\ttask.o --omf_browse .\objects\ttask.crf --depend .\objects\ttask.d)
+I (Source\tinyOS.h)(0x5C62E6D5)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F218E)
+I (Source\tLib.h)(0x5C4F7084)
+I (Source\tConfig.h)(0x5C62E6D4)
+I (Source\tEvent.h)(0x5C61B604)
+I (Source\tTask.h)(0x5C62ACE0)
+I (Source\tSem.h)(0x5C5EAE50)
+I (Source\tMbox.h)(0x5C5F08F2)
+I (Source\tMemBlock.h)(0x5C6003D9)
+I (Source\tFlagGroup.h)(0x5C604AF5)
+I (Source\tMutex.h)(0x5C61C24E)
+I (Source\tTimer.h)(0x5C62C44D)
+I (Source\tHooks.h)(0x5C62E6F4)
+F (.\Source\tTime.c)(0x5C4F6F4A)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103RB-I.\RTE\_Target_1-Id:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include-Id:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F10X_MD-o .\objects\ttime.o --omf_browse .\objects\ttime.crf --depend .\objects\ttime.d)
+I (Source\tinyOS.h)(0x5C62E6D5)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F218E)
+I (Source\tLib.h)(0x5C4F7084)
+I (Source\tConfig.h)(0x5C62E6D4)
+I (Source\tEvent.h)(0x5C61B604)
+I (Source\tTask.h)(0x5C62ACE0)
+I (Source\tSem.h)(0x5C5EAE50)
+I (Source\tMbox.h)(0x5C5F08F2)
+I (Source\tMemBlock.h)(0x5C6003D9)
+I (Source\tFlagGroup.h)(0x5C604AF5)
+I (Source\tMutex.h)(0x5C61C24E)
+I (Source\tTimer.h)(0x5C62C44D)
+I (Source\tHooks.h)(0x5C62E6F4)
+F (.\Source\tTimer.c)(0x5C62DD95)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103RB-I.\RTE\_Target_1-Id:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include-Id:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F10X_MD-o .\objects\ttimer.o --omf_browse .\objects\ttimer.crf --depend .\objects\ttimer.d)
+I (Source\tinyOS.h)(0x5C62E6D5)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F218E)
+I (Source\tLib.h)(0x5C4F7084)
+I (Source\tConfig.h)(0x5C62E6D4)
+I (Source\tEvent.h)(0x5C61B604)
+I (Source\tTask.h)(0x5C62ACE0)
+I (Source\tSem.h)(0x5C5EAE50)
+I (Source\tMbox.h)(0x5C5F08F2)
+I (Source\tMemBlock.h)(0x5C6003D9)
+I (Source\tFlagGroup.h)(0x5C604AF5)
+I (Source\tMutex.h)(0x5C61C24E)
+I (Source\tTimer.h)(0x5C62C44D)
+I (Source\tHooks.h)(0x5C62E6F4)
+F (RTE\Device\STM32F103RB\RTE_Device.h)(0x59284216)()
+F (RTE\Device\STM32F103RB\startup_stm32f10x_md.s)(0x58259ADC)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\Device\STM32F103RB-I.\RTE\_Target_1-Id:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include-Id:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include--pd "__UVISION_VERSION SETA 525" --pd "_RTE_ SETA 1" --pd "STM32F10X_MD SETA 1"--list .\listings\startup_stm32f10x_md.lst --xref -o .\objects\startup_stm32f10x_md.o --depend .\objects\startup_stm32f10x_md.d)
+F (RTE\Device\STM32F103RB\system_stm32f10x.c)(0x58259ADC)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103RB-I.\RTE\_Target_1-Id:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include-Id:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F10X_MD-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x58259ADC)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5C62EA41)
+I (d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\core_cm3.h)(0x5A8E7442)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F218E)
+I (d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_version.h)(0x5A55EA42)
+I (d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_compiler.h)(0x5A8E7442)
+I (d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_armcc.h)(0x5A8E7442)
+I (d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x58259ADC)

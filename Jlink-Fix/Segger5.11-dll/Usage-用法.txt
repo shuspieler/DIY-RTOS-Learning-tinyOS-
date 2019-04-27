@@ -1,0 +1,6 @@
+Jlink's driver extracted from Keil v5.11. They are used for fixing the warming information of the broken jlink on the Keil v5.24a and higher.
+Usage: copy those two files to replace the original one in the filder D:\Keil_v5\ARM\Segger
+
+这是从5.11版本MDK提取的jlink驱动，用来解决5.24a以及新版本对于克隆版jlink支持不友好的问题。
+使用方法是将这两个文件覆盖到D:\Keil_v5\ARM\Segger文件夹。
+

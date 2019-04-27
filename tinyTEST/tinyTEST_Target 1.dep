@@ -1,0 +1,19 @@
+Dependencies for Project 'tinyTEST', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Source\main.c)(0x5C767FB6)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I "E:\stu.zzu.edu.cn\OneDrive - stu.zzu.edu.cn\RTOS\tinyOS\tinyTEST\RTE"-I "E:\stu.zzu.edu.cn\OneDrive - stu.zzu.edu.cn\RTOS\tinyOS\tinyTEST\RTE\Device\STM32F103RB"-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-D_RTE_ -DSTM32F10X_MD-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\stm32f10x.h)(0x53BA61C0)
+I (E:\stu.zzu.edu.cn\OneDrive - stu.zzu.edu.cn\RTOS\tinyOS\tinyTEST\RTE\RTE_Components.h)(0x5C76811E)
+I (d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x53847B26)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53468EA4)
+I (d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x53030540)
+I (d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x53030540)
+I (d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\system_stm32f10x.h)(0x4F1E90AC)
+F (RTE\Device\STM32F103RB\RTE_Device.h)(0x5616025E)()
+F (RTE\Device\STM32F103RB\startup_stm32f10x_md.s)(0x4F1E90AC)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I "E:\stu.zzu.edu.cn\OneDrive - stu.zzu.edu.cn\RTOS\tinyOS\tinyTEST\RTE"-I "E:\stu.zzu.edu.cn\OneDrive - stu.zzu.edu.cn\RTOS\tinyOS\tinyTEST\RTE\Device\STM32F103RB"-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include--list .\startup_stm32f10x_md.lst --xref -o .\startup_stm32f10x_md.o --depend .\startup_stm32f10x_md.d)
+F (RTE\Device\STM32F103RB\system_stm32f10x.c)(0x4F1E90AC)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I "E:\stu.zzu.edu.cn\OneDrive - stu.zzu.edu.cn\RTOS\tinyOS\tinyTEST\RTE"-I "E:\stu.zzu.edu.cn\OneDrive - stu.zzu.edu.cn\RTOS\tinyOS\tinyTEST\RTE\Device\STM32F103RB"-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-D_RTE_ -DSTM32F10X_MD-o .\system_stm32f10x.o --omf_browse .\system_stm32f10x.crf --depend .\system_stm32f10x.d)
+I (d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\stm32f10x.h)(0x53BA61C0)
+I (E:\stu.zzu.edu.cn\OneDrive - stu.zzu.edu.cn\RTOS\tinyOS\tinyTEST\RTE\RTE_Components.h)(0x5C76811E)
+I (d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x53847B26)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53468EA4)
+I (d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x53030540)
+I (d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x53030540)
+I (d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\system_stm32f10x.h)(0x4F1E90AC)

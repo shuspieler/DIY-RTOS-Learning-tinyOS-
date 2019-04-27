@@ -1,0 +1,12 @@
+.\objects\tmeblock.o: Source\tMeBlock.c
+.\objects\tmeblock.o: Source\tinyOS.h
+.\objects\tmeblock.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\tmeblock.o: Source\tLib.h
+.\objects\tmeblock.o: Source\tConfig.h
+.\objects\tmeblock.o: Source\tEvent.h
+.\objects\tmeblock.o: Source\tTask.h
+.\objects\tmeblock.o: Source\tSem.h
+.\objects\tmeblock.o: Source\tMbox.h
+.\objects\tmeblock.o: Source\tMemBlock.h
+.\objects\tmeblock.o: Source\tFlagGroup.h
+.\objects\tmeblock.o: Source\tMutex.h

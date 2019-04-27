@@ -1,0 +1,87 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: ¦ÌVision V5.25.2.0
+Copyright (C) 2018 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: Shu Ren, FAU, LIC=----
+ 
+Tool Versions:
+Toolchain:       MDK-Lite  Version: 5.25.2.0
+Toolchain Path:  d:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 6 (build 750)
+Assembler:       Armasm.exe V5.06 update 6 (build 750)
+Linker/Locator:  ArmLink.exe V5.06 update 6 (build 750)
+Library Manager: ArmAr.exe V5.06 update 6 (build 750)
+Hex Converter:   FromElf.exe V5.06 update 6 (build 750)
+CPU DLL:         SARMCM3.DLL V5.25.2.0
+Dialog DLL:      DCM.DLL V1.17.1.0
+Target DLL:      UL2CM3.DLL V1.160.12.0
+Dialog DLL:      TCM.DLL V1.35.1.0
+ 
+<h2>Project:</h2>
+F:\stu.zzu.edu.cn\OneDrive - stu.zzu.edu.cn\RTOS\tinyOS\c13.03_tinyOS\tinyOS.uvprojx
+Project File Date:  02/12/2019
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 6 (build 750)', folder: 'd:\Keil_v5\ARM\ARMCC\Bin'
+Rebuild target 'Target 1'
+compiling app.c...
+compiling main.c...
+compiling tBitmap.c...
+compiling switch.c...
+compiling tEvent.c...
+compiling tCpu.c...
+compiling tFlagGroup.c...
+compiling tHooks.c...
+compiling tList.c...
+compiling tMbox.c...
+compiling tMeBlock.c...
+compiling tMutex.c...
+compiling tSem.c...
+compiling tTask.c...
+Source\tTask.c(9): warning:  #223-D: function "memset" declared implicitly
+  	memset(stack, 0, size);
+Source\tTask.c: 1 warning, 0 errors
+compiling tTime.c...
+compiling tTimer.c...
+assembling startup_stm32f10x_md.s...
+compiling system_stm32f10x.c...
+linking...
+Program Size: Code=5642 RO-data=526 RW-data=76 ZI-data=27156  
+".\Objects\tinyOS.axf" - 0 Error(s), 1 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.3.0.pack
+                ARM.CMSIS.5.3.0
+                CMSIS (Cortex Microcontroller Software Interface Standard)
+   * Component: CORE Version: 5.1.1
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.STM32F1xx_DFP.2.3.0.pack
+                Keil.STM32F1xx_DFP.2.3.0
+                STMicroelectronics STM32F1 Series Device Support, Drivers and Examples
+   * Component: Startup Version: 1.0.0
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\Device\STM32F103RB
+  .\RTE\_Target_1
+  d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include
+  d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:5.1.1
+
+   * Component: Keil::Device:Startup:1.0.0
+      Source file:   Device\Source\ARM\startup_stm32f10x_md.s
+      Source file:   Device\Source\system_stm32f10x.c
+      Source file:   Device\Source\ARM\STM32F1xx_OPT.s
+      Include file:  RTE_Driver\Config\RTE_Device.h
+Build Time Elapsed:  00:00:10
+</pre>
+</body>
+</html>
